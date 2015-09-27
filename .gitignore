@@ -47,6 +47,7 @@ coverage.xml
 *.mo
 *.pot
 
+/contoured.jpg
 # Django stuff:
 *.log
 
